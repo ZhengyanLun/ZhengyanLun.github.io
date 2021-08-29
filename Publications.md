@@ -5,7 +5,11 @@ layout: post
 categories: media
 ---
 
+(* corresponding authorship   † co-authorship)
 
+
+1.Xiang-kai Kong, Qian-wang Chen$$^*$$, and Zhengyan Lun. "Probing the influence of different oxygenated groups on graphene oxide's catalytic performance." Journal of Materials Chemistry A, 2,3 (2014): 610-613.
+[DOI  https://doi.org/10.1039/C3TA13946H] (https://pubs.rsc.org/en/content/articlelanding/2014/ta/c3ta13946h/unauth)
 
 ![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
 
