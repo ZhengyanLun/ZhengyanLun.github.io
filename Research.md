@@ -1,5 +1,5 @@
 ---
-title:  "Research"
+title:  "Research interests"
 mathjax: true
 layout: post
 categories: media
@@ -8,7 +8,7 @@ categories: media
 ![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
 
 
-## MathJax
+## Design and synthesis of next-generation energy storage materials
 
 You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
 
@@ -24,7 +24,7 @@ The [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equat
 
 $$ i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t) $$
 
-## Code
+## Development and application of advanced characterization techniques
 
 Embed code by putting `{{ "{% highlight language " }}%}` `{{ "{% endhighlight " }}%}` blocks around it. Adding the parameter `linenos` will show source lines besides the code.
 
@@ -40,7 +40,7 @@ static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocato
 
 {% endhighlight %}
 
-## Gists
+## Investigation of the reaction mechanism of ceramic material synthesis
 
 With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can embed gists simply by using the `gist` command:
 
