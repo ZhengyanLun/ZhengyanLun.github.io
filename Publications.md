@@ -7,6 +7,10 @@ categories: media
 
 (* corresponding authorship;      † co-authorship)
 
+15) Tian, Yaosen, Guobo Zeng, Ann Rutt, Tan Shi, Haegyeom Kim, Jingyang Wang, Julius Koettgen, Yingzhi Sun, Bin Ouyang, Tina Chen, Zhengyan Lun, Ziqin Rong, Kristin Persson* , Gerbrand Ceder*. "Promises and Challenges of Next-Generation “Beyond Li-ion” Batteries for Electric Vehicles and Grid Decarbonization." Chemical reviews 121.3 (2020): 1623-1669. [https://pubs.acs.org/doi/10.1021/acs.chemrev.0c00767.](https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.0c00767)
+
+14) Peichen Zhong†, Zijian Cai†, Yaqian Zhang, Raynald Giovine, Bin Ouyang, Guobo Zeng, Yu Chen, Raphaële Clément, Zhengyan Lun* , Gerbrand Ceder*. "Increasing Capacity in Disordered Rocksalt Cathodes by Mg Doping." Chemistry of Materials 32.24 (2020): 10728-10736. [https://pubs.acs.org/doi/10.1021/acs.chemmater.0c04109.](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.0c04109)
+
 13) Deok-Hwang Kwon* †, Jinhyuk Lee†, Nongnuch Artrith, Hyunchul Kim, Lijun Wu, Zhengyan Lun, Yaosen Tian, Yimei Zhu, Gerbrand Ceder*. "The Impact of Surface Structure Transformations on the Performance of Li-Excess Cation-Disordered Rocksalt Cathodes." Cell Reports Physical Science 1.9 (2020): 100187. [https://doi.org/10.1016/j.xcrp.2020.100187](https://www.sciencedirect.com/science/article/pii/S2666386420301983)
 
 12) Bin Ouyang†, Nongnuch Artrith†, Zhengyan Lun†, Zinab Jadidi, Daniil A. Kitchaev, Huiwen Ji, Alexander Urban, Gerbrand Ceder*. "Effect of Fluorination on Lithium Transport and Short‐Range Order in Disordered‐Rocksalt‐Type Lithium‐Ion Battery Cathodes." Advanced Energy Materials 10.10 (2020): 1903240. [https://doi.org/10.1002/aenm.201903240](https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.201903240)
