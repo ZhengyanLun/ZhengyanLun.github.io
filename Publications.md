@@ -7,16 +7,20 @@ categories: media
 
 (* corresponding authorship;      † co-authorship)
 
+7)
 
+6) Daniil A. Kitchaev*†, Zhengyan Lun†, William D. Richards, Huiwen Ji, Raphaële J. Clément, Mahalingam Balasubramanian, Deok-Hwang Kwon, Kehua Dai, Joseph K. Papp, Teng Lei, Bryan D. McCloskey,Wanli Yang, Jinhyuk Lee, Gerbrand Ceder*, "Design principles for high transition metal capacity in disordered rocksalt Li-ion cathodes." Energy & Environmental Science 11.8 (2018): 2159-2171. [DOI: 10.1039/C8EE00816G](https://pubs.rsc.org/en/content/articlehtml/2018/ee/c8ee00816g)
 
-4) Yang, Yang, Fangcai Zheng, Guoliang Xia, Zhengyan Lun, Qianwang Chen*. "Experimental and theoretical investigations of nitro-group doped porous carbon as a high performance lithium-ion battery anode." Journal of Materials Chemistry A 3.36 (2015): 18657-18666. [DOI: 10.1039/C5TA05676D](https://pubs.rsc.org/en/content/articlehtml/2015/ta/c5ta05676d)
+5) Yang Yang, Zhiyu Lin, Shiqi Gao, Jianwei Su, Zhengyan Lun, Guoliang Xia, Jitang Chen, Ruirui Zhang, Qianwang Chen*. "Tuning electronic structures of nonprecious ternary alloys encapsulated in graphene layers for optimizing overall water splitting activity." Acs Catalysis 7.1 (2017): 469-479. [DOI: 10.1021/acscatal.6b02573.](https://pubs.acs.org/doi/abs/10.1021/acscatal.6b02573)
+
+4) Yang Yang, Fangcai Zheng, Guoliang Xia, Zhengyan Lun, Qianwang Chen*. "Experimental and theoretical investigations of nitro-group doped porous carbon as a high performance lithium-ion battery anode." Journal of Materials Chemistry A 3.36 (2015): 18657-18666. [DOI: 10.1039/C5TA05676D](https://pubs.rsc.org/en/content/articlehtml/2015/ta/c5ta05676d)
 
 3) Yang Yang, Zhengyan Lun, Guoliang Xia, Fangcai Zheng, Mengni He, Qianwang Chen*. "Non-precious alloy encapsulated in nitrogen-doped graphene layers derived from MOFs as an active and durable hydrogen evolution reaction catalyst." Energy & Environmental Science 8.12 (2015): 3563-3571. [DOI: 10.1039/C5EE02460A](https://pubs.rsc.org/en/content/articlehtml/2015/ee/c5ee02460a?casa_token=l64bWa9ooiEAAAAA:tTPxPs-01R9BFNmXWSuvbwTuLbdmLJFN7XK7gYUn38rBo1Csqb8KYwfaMXJWkhbFM0EGq8cDSy3t)
 
-2) Xiangkai Kong, Qianwang Chen*, and Zhengyan Lun. "The influence of N‐doped carbon materials on supported Pd: enhanced hydrogen storage and oxygen reduction performance." ChemPhysChem 15.2 (2014): 344-350. [DOI   https://doi.org/10.1002/cphc.201300907](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.201300907)
+2) Xiangkai Kong, Qianwang Chen*, and Zhengyan Lun. "The influence of N‐doped carbon materials on supported Pd: enhanced hydrogen storage and oxygen reduction performance." ChemPhysChem 15.2 (2014): 344-350. [DOI:   https://doi.org/10.1002/cphc.201300907](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.201300907)
 
 1) Xiangkai Kong, Qianwang Chen*, and Zhengyan Lun. "Probing the influence of different oxygenated groups on graphene oxide's catalytic performance." Journal of Materials Chemistry A, 2,3 (2014): 610-613.
-[DOI  https://doi.org/10.1039/C3TA13946H](https://pubs.rsc.org/en/content/articlelanding/2014/ta/c3ta13946h/unauth)
+[DOI:  https://doi.org/10.1039/C3TA13946H](https://pubs.rsc.org/en/content/articlelanding/2014/ta/c3ta13946h/unauth)
 
 ![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
 
