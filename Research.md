@@ -35,3 +35,8 @@ Ultrafast interferometric scattering (iSCAT) optical microscopy
 
 ## Investigation of the reaction mechanism of ceramic material synthesis
 
+For decades, the synthesis of ceramic materials has been largely achieved via trial-and-error, and there is an increasing demand to thoroughly investigate the reaction mechanism in the solid state reactions in order to speed up the progess of synthesizing novel novel ceramic materials and their targeted functional optimizations.
+
+The black-box of solid state reactions can be tackled combining temperature-depent characterization techniques (such as XRD and TEM) and density functional theory (DFT) calculations (predictive synthesis). These systematic tracking of the reaction pathways can elucidate the interplay between thermodymanics and kinetics so that we can understand the sequential reaction behavior during the reaction process. This can further provide invaluable information on the synthetic protocol optimization, such as the choice of precursors, sintering steps and sintering temperatures etc.
+
+
