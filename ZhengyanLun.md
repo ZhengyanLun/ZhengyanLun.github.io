@@ -7,15 +7,10 @@ categories: media
 
 
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+
 ![Zhengyan Lun](/Photo.jpg)
 
-<p align="center">
-  <img width="200" height="300" src="https://github.com/ZhengyanLun/ZhengyanLun.github.io/blob/master/Zhengyan%20Lun.jpeg/200/300">
-</p>
-
-
-## MathJax
+## Education
 
 You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
 
@@ -31,7 +26,7 @@ The [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equat
 
 $$ i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t) $$
 
-## Code
+## Work experience
 
 Embed code by putting `{{ "{% highlight language " }}%}` `{{ "{% endhighlight " }}%}` blocks around it. Adding the parameter `linenos` will show source lines besides the code.
 
@@ -47,13 +42,13 @@ static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocato
 
 {% endhighlight %}
 
-## Gists
+## Honors
 
 With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can embed gists simply by using the `gist` command:
 
 <script src="https://gist.github.com/5555251.js?file=gist.md"></script>
 
-## Images
+## Contact information
 
 Upload an image to the *assets* folder and embed it with `![title](/assets/name.jpg))`. Keep in mind that the path needs to be adjusted if Jekyll is run inside a subfolder.
 
