@@ -7,9 +7,9 @@ categories: media
 
 (* corresponding authorship;      † co-authorship)
 
-7)
+7) 
 
-6) Daniil A. Kitchaev*†, Zhengyan Lun†, William D. Richards, Huiwen Ji, Raphaële J. Clément, Mahalingam Balasubramanian, Deok-Hwang Kwon, Kehua Dai, Joseph K. Papp, Teng Lei, Bryan D. McCloskey,Wanli Yang, Jinhyuk Lee, Gerbrand Ceder*, "Design principles for high transition metal capacity in disordered rocksalt Li-ion cathodes." Energy & Environmental Science 11.8 (2018): 2159-2171. [DOI: 10.1039/C8EE00816G](https://pubs.rsc.org/en/content/articlehtml/2018/ee/c8ee00816g)
+6) Daniil A. Kitchaev* †, Zhengyan Lun†, William D. Richards, Huiwen Ji, Raphaële J. Clément, Mahalingam Balasubramanian, Deok-Hwang Kwon, Kehua Dai, Joseph K. Papp, Teng Lei, Bryan D. McCloskey,Wanli Yang, Jinhyuk Lee, Gerbrand Ceder*, "Design principles for high transition metal capacity in disordered rocksalt Li-ion cathodes." Energy & Environmental Science 11.8 (2018): 2159-2171. [DOI: 10.1039/C8EE00816G](https://pubs.rsc.org/en/content/articlehtml/2018/ee/c8ee00816g)
 
 5) Yang Yang, Zhiyu Lin, Shiqi Gao, Jianwei Su, Zhengyan Lun, Guoliang Xia, Jitang Chen, Ruirui Zhang, Qianwang Chen*. "Tuning electronic structures of nonprecious ternary alloys encapsulated in graphene layers for optimizing overall water splitting activity." Acs Catalysis 7.1 (2017): 469-479. [DOI: 10.1021/acscatal.6b02573.](https://pubs.acs.org/doi/abs/10.1021/acscatal.6b02573)
 
