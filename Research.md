@@ -33,7 +33,12 @@ The electrochemical performance of energy storage materials are primarily relate
 
 ### X-ray diffraction (XRD)
 
+XRD is a traditional, yet powerful tool to track the long-range crystal structure of the materials. *Operando* XRD provides valuable information of the phase behavior during the electrochemical cycling of energy storage materials in real time, and can be applied to understand the stability and reaction kinetics of the material upon cycling. 
+
 ### Pair-distribution function (PDF)
+
+PDF is a bulk-sensitive local structure characterization technique, which can probe the local 
+
 
 ### Transmission electron microscopy (TEM)
 
