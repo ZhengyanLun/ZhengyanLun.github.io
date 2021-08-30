@@ -51,17 +51,11 @@ National Scholarship of China (国家奖学金) (Sept. 2013 and Sept. 2014)
 
 ## Contact information
 
-Upload an image to the *assets* folder and embed it with `![title](/assets/name.jpg))`. Keep in mind that the path needs to be adjusted if Jekyll is run inside a subfolder.
+Email: zylun@berkeley.edu; zl491@cam.ac.uk
 
-A wrapper `div` with the class `large` can be used to increase the width of an image or iframe.
+Google scholar profile: [Zhengyan Lun](https://scholar.google.com/citations?hl=en&user=9OqMRZYAAAAJ&pagesize=80&view_op=list_works)
 
-![Flower](https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg)
+Twitter: @LunZhengyan
 
-[Flower](https://unsplash.com/photos/iGrsa9rL11o) by Tj Holowaychuk
-
-## Embedded content
-
-You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
-
-{% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
+LinkedIn: [Zhengyan Lun](https://www.linkedin.com/chatin/wnc/in/zhengyan-lun-590b37123)
 
