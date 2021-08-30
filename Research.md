@@ -37,7 +37,7 @@ PDF is a bulk-sensitive local structure characterization technique, which can pr
 
 ### Ultrafast interferometric scattering (iSCAT) optical microscopy
 
-![Characterization]
+![Characterization](\characterization.jpg)
 
 
 ## Investigation of the reaction mechanism of ceramic material synthesis
