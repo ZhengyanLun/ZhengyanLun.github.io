@@ -7,6 +7,16 @@ categories: media
 
 (* corresponding authorship;      † co-authorship)
 
+17) Zhengyan Lun†, Bin Ouyang†, Deok-Hwang Kwon, Yang Ha, Emily E. Foley, Tzu-Yang Huang, Zijian Cai, Hyunchul Kim, Mahalingam Balasubramanian, Yingzhi Sun, Jianping Huang, Yaosen Tian, Haegyeom Kim, Bryan D. McCloskey, Wanli Yang, Raphaële Clément, Huiwen Ji* , Gerbrand Ceder*, "Cation-disordered rocksalt-type high-entropy cathodes for Li-ion batteries." Nature materials 20.2 (2021): 214-221. [https://doi.org/10.1038/s41563-020-00816-0](https://www.nature.com/articles/s41563-020-00816-0)
+
+Related reading: Singh, Aditya Narayan. ["A Story of Disordered Arrangements." Matter 4.1 (2021): 23-25.](https://www.sciencedirect.com/science/article/pii/S2590238520306901?casa_token=wKvJTGkzefoAAAAA:WGbnQrhgJwfJnjOuooCaAIxbdaJL0sIfrx7dXjjLLJckKvKWZl8IIbiQhdnuqU3c2iM2yA)
+
+Video presentation of the paper.
+
+{% include embed.html url="https://www.youtube.com/watch?v=ml4TMqhUlAw&t=1029s" %}
+
+16) Linze Li†, Zhengyan Lun†, Dongchang Chen, Yuan Yue, Wei Tong, Guoying Chen, Gerbrand Ceder* , and Chongmin Wang*. "Fluorination‐Enhanced Surface Stability of Cation‐Disordered Rocksalt Cathodes for Li‐Ion Batteries." Advanced Functional Materials (2021): 2101888. [https://doi.org/10.1002/adfm.202101888](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202101888)
+
 15) Tian, Yaosen, Guobo Zeng, Ann Rutt, Tan Shi, Haegyeom Kim, Jingyang Wang, Julius Koettgen, Yingzhi Sun, Bin Ouyang, Tina Chen, Zhengyan Lun, Ziqin Rong, Kristin Persson* , Gerbrand Ceder*. "Promises and Challenges of Next-Generation “Beyond Li-ion” Batteries for Electric Vehicles and Grid Decarbonization." Chemical reviews 121.3 (2020): 1623-1669. [https://pubs.acs.org/doi/10.1021/acs.chemrev.0c00767.](https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.0c00767)
 
 14) Peichen Zhong†, Zijian Cai†, Yaqian Zhang, Raynald Giovine, Bin Ouyang, Guobo Zeng, Yu Chen, Raphaële Clément, Zhengyan Lun* , Gerbrand Ceder*. "Increasing Capacity in Disordered Rocksalt Cathodes by Mg Doping." Chemistry of Materials 32.24 (2020): 10728-10736. [https://pubs.acs.org/doi/10.1021/acs.chemmater.0c04109.](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.0c04109)
