@@ -7,11 +7,11 @@ categories: media
 
 (* corresponding authorship;      † co-authorship)
 
-3.
+3)
 
-2. Xiangkai Kong, Qianwang Chen*, and Zhengyan Lun. "The influence of N‐doped carbon materials on supported Pd: enhanced hydrogen storage and oxygen reduction performance." ChemPhysChem 15.2 (2014): 344-350. [DOI   https://doi.org/10.1002/cphc.201300907](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.201300907)
+2) Xiangkai Kong, Qianwang Chen*, and Zhengyan Lun. "The influence of N‐doped carbon materials on supported Pd: enhanced hydrogen storage and oxygen reduction performance." ChemPhysChem 15.2 (2014): 344-350. [DOI   https://doi.org/10.1002/cphc.201300907](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.201300907)
 
-1. Xiangkai Kong, Qianwang Chen*, and Zhengyan Lun. "Probing the influence of different oxygenated groups on graphene oxide's catalytic performance." Journal of Materials Chemistry A, 2,3 (2014): 610-613.
+1) Xiangkai Kong, Qianwang Chen*, and Zhengyan Lun. "Probing the influence of different oxygenated groups on graphene oxide's catalytic performance." Journal of Materials Chemistry A, 2,3 (2014): 610-613.
 [DOI  https://doi.org/10.1039/C3TA13946H](https://pubs.rsc.org/en/content/articlelanding/2014/ta/c3ta13946h/unauth)
 
 ![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
