@@ -5,10 +5,11 @@ layout: post
 categories: media
 ---
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
 
 
 ## Design and synthesis of next-generation energy storage materials
+
+The tremendous success and growth of energy storage technology in a broad range of applications have long-lasting and far-reaching influence on our human society. Li-ion technology is so far the most promising and optimized component within the energy storage technology frame, which can further be divided into several sub-catagories, i.e., cathodes, anodes and electrolytes. 
 
 You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
 
