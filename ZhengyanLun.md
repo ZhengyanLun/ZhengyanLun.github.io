@@ -10,7 +10,7 @@ categories: media
 ![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="200" height="300" src="https://github.com/ZhengyanLun/ZhengyanLun.github.io/blob/master/Zhengyan%20Lun.jpeg/200/300">
 </p>
 
 
