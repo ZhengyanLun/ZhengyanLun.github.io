@@ -12,6 +12,12 @@ categories: media
 
 ## Education
 
+Sept 2012 ---- Jun 2016, B.S., Department of Chemistry and Materials Science, University of Science and Technology of China; Major: materials physics; Research advisor: Prof. Qianwang Chen.
+
+Aug 2016 ---- Dec 2020, Ph.D., Department of Materials Science and Engineering, University of California at Berkeley; Supervisor: Prof. Gerbrand Ceder.
+Thesis: Short-range order and macroscopic Lithium transport in cation-disordered rocksalt cathodes.
+
+
 You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
 
 [Euler's formula](https://en.wikipedia.org/wiki/Euler%27s_formula) relates the  complex exponential function to the trigonometric functions.
