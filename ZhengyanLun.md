@@ -12,24 +12,30 @@ categories: media
 
 ## Education
 
-Sept 2012 --- Jun 2016, 
-B.S., Department of Chemistry and Materials Science, University of Science and Technology of China; 
+### Sept 2012 --- Jun 2016, B.S.
+Department of Chemistry and Materials Science, University of Science and Technology of China; 
+
 Major: Materials Physics; 
+
 Research advisor: Prof. Qianwang Chen.
 
-Aug 2016 --- Dec 2020, 
-Ph.D., Department of Materials Science and Engineering, University of California at Berkeley; 
+### Aug 2016 --- Dec 2020, Ph.D.
+Department of Materials Science and Engineering, University of California at Berkeley; 
+
 Supervisor: Prof. Gerbrand Ceder.
+
 Thesis: Short-range order and macroscopic Lithium transport in cation-disordered rocksalt cathodes.
 
 
 ## Work experience
 
-Apr 2021 --- present, 
-Research Associate, 
+### Apr 2021 --- present,  Research Associate 
 Department of Chemistry, University of Cambridge;
+
 Supervisor: Prof. Clare P. Grey; 
+
 Department of Physics,University of Cambridge;
+
 Supervisor: Prof. Akshay Rao.
 
 
