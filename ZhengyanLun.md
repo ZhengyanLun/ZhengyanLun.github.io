@@ -13,7 +13,7 @@ categories: media
 ## Education
 
 ### Sept 2012 --- Jun 2016, B.S.
-Department of Chemistry and Materials Science, University of Science and Technology of China; 
+Department of Chemistry and Materials Science, University of Science and Technology of China (USTC); 
 
 Major: Materials Physics; 
 
@@ -22,7 +22,7 @@ Research advisor: Prof. Qianwang Chen.
 ### Aug 2016 --- Dec 2020, Ph.D.
 Department of Materials Science and Engineering, University of California at Berkeley; 
 
-Supervisor: Prof. Gerbrand Ceder.
+Supervisor: Prof. Gerbrand Ceder;
 
 Thesis: Short-range order and macroscopic Lithium transport in cation-disordered rocksalt cathodes.
 
@@ -34,16 +34,20 @@ Department of Chemistry, University of Cambridge;
 
 Supervisor: Prof. Clare P. Grey; 
 
-Department of Physics,University of Cambridge;
+Department of Physics, University of Cambridge;
 
 Supervisor: Prof. Akshay Rao.
 
 
 ## Honors
 
-With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can embed gists simply by using the `gist` command:
+Materials Research Society Graduate Student Award 2020 Fall (Dec. 2020) [link](https://www.mrs.org/careers-advancement/awards/spring-awards/graduate-student-awards/past-recipients)
 
-<script src="https://gist.github.com/5555251.js?file=gist.md"></script>
+Guomoruo Scholorship (郭沫若奖学金) at USTC (highest award) (Sept. 2015)
+
+National Scholarship of China (国家奖学金) (Sept. 2013 and Sept. 2014)
+
+
 
 ## Contact information
 
