@@ -11,6 +11,8 @@ categories: media
 
 The tremendous success and growth of energy storage technology in a broad range of applications have long-lasting and far-reaching influence on our human society. Li-ion technology is so far the most promising and optimized component within the energy storage technology frame, which can further be divided into several sub-catagories, i.e., cathodes, anodes and electrolytes. 
 
+### Cathodes
+
 You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
 
 [Euler's formula](https://en.wikipedia.org/wiki/Euler%27s_formula) relates the  complex exponential function to the trigonometric functions.
