@@ -7,7 +7,11 @@ categories: media
 
 (* corresponding authorship;      † co-authorship)
 
-3)
+
+
+4) Yang, Yang, Fangcai Zheng, Guoliang Xia, Zhengyan Lun, Qianwang Chen*. "Experimental and theoretical investigations of nitro-group doped porous carbon as a high performance lithium-ion battery anode." Journal of Materials Chemistry A 3.36 (2015): 18657-18666. [DOI: 10.1039/C5TA05676D](https://pubs.rsc.org/en/content/articlehtml/2015/ta/c5ta05676d)
+
+3) Yang Yang, Zhengyan Lun, Guoliang Xia, Fangcai Zheng, Mengni He, Qianwang Chen*. "Non-precious alloy encapsulated in nitrogen-doped graphene layers derived from MOFs as an active and durable hydrogen evolution reaction catalyst." Energy & Environmental Science 8.12 (2015): 3563-3571. [DOI: 10.1039/C5EE02460A](https://pubs.rsc.org/en/content/articlehtml/2015/ee/c5ee02460a?casa_token=l64bWa9ooiEAAAAA:tTPxPs-01R9BFNmXWSuvbwTuLbdmLJFN7XK7gYUn38rBo1Csqb8KYwfaMXJWkhbFM0EGq8cDSy3t)
 
 2) Xiangkai Kong, Qianwang Chen*, and Zhengyan Lun. "The influence of N‐doped carbon materials on supported Pd: enhanced hydrogen storage and oxygen reduction performance." ChemPhysChem 15.2 (2014): 344-350. [DOI   https://doi.org/10.1002/cphc.201300907](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cphc.201300907)
 
