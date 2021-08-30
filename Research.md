@@ -29,6 +29,21 @@ $$ i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2
 
 ## Development and application of advanced characterization techniques
 
+The electrochemical performance of energy storage materials are primarily related to the structure of the materials and the reaction kinetics during operation. One must rely on various advanced characterization techniques, both *in-situ* (i.e., tracking the structure / kinetic information during the electrochemical cycling in real time) and *ex-situ* (i.e., stopping the components at different state of charge and performing various characterizations). I am a fan of developing and applying various techniques to probe the structure-property relationships and reaction kinetics in energy storage materials, including, but not limited to the following:
+
+### X-ray diffraction (XRD)
+
+### Pair-distribution function (PDF)
+
+### Transmission electron microscopy (TEM)
+
+### Solid-state nuclear magnetic resonance spectroscopy (ssNMR)
+
+### X-ray absorption spectroscopy (XAS)
+
+### Ultrafast interferometric scattering (iSCAT) optical microscopy
+
+
 Embed code by putting `{{ "{% highlight language " }}%}` `{{ "{% endhighlight " }}%}` blocks around it. Adding the parameter `linenos` will show source lines besides the code.
 
 {% highlight c %}
