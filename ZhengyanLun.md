@@ -22,6 +22,8 @@ Research advisor: Prof. Qianwang Chen.
 ### Aug 2016 --- Dec 2020, Ph.D.
 Department of Materials Science and Engineering, University of California at Berkeley (UCB); 
 
+Material Sciences Division, Lawrence Berkeley National Laboratory (LBNL);
+
 Supervisor: Prof. Gerbrand Ceder;
 
 Thesis: Short-range order and macroscopic Lithium transport in cation-disordered rocksalt cathodes.
