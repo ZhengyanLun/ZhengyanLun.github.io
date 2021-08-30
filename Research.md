@@ -39,4 +39,4 @@ For decades, the synthesis of ceramic materials has been largely achieved via tr
 
 The black-box of solid state reactions can be tackled combining temperature-depent characterization techniques (such as XRD and TEM) and density functional theory (DFT) calculations (predictive synthesis). These systematic tracking of the reaction pathways can elucidate the interplay between thermodymanics and kinetics so that we can understand the sequential reaction behavior during the reaction process. This can further provide invaluable information on the synthetic protocol optimization, such as the choice of precursors, sintering steps and sintering temperatures etc.
 
-
+![Synthesis](/synthesis.tiff)
