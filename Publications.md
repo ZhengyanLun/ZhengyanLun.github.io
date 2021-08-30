@@ -7,7 +7,13 @@ categories: media
 
 (* corresponding authorship;      † co-authorship)
 
-9) 
+12)
+
+11) Zhengyan Lun†, Bin Ouyang†, Zijian Cai, Raphaële J. Clément, Deok-Hwang Kwon, Jianping Huang, Joseph K. Papp, Mahalingam Balasubramanian, Yaosen Tian, Bryan D. McCloskey, Huiwen Ji, Haegyeom Kim, Daniil A. Kitchaev, Gerbrand Ceder*, "Design principles for high-capacity Mn-based cation-disordered rocksalt cathodes." Chem 6.1 (2020): 153-168. [https://doi.org/10.1016/j.chempr.2019.10.001](https://www.sciencedirect.com/science/article/pii/S2451929419304322)
+
+10) Raphaële J. Clément, Zhengyan Lun, Gerbrand Ceder*, "Cation-disordered rocksalt transition metal oxides and oxyfluorides for high energy lithium-ion cathodes." Energy & Environmental Science 13.2 (2020): 345-373. [DOI: 10.1039/C9EE02803J](https://pubs.rsc.org/en/content/articlehtml/2020/ee/c9ee02803j)
+
+9) Huiwen Ji†, Daniil A. Kitchaev†, Zhengyan Lun, Hyunchul Kim, Emily Foley, Deok-Hwang Kwon, Yaosen Tian, Mahalingam Balasubramanian, Matteo Bianchini, Zijian Cai, Raphaële J. Clément, Jae Chul Kim, Gerbrand Ceder*, "Computational investigation and experimental realization of disordered high-capacity Li-ion cathodes based on Ni redox." Chemistry of Materials 31.7 (2019): 2431-2442. [DOI: 10.1021/acs.chemmater.8b05096](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b05096)
 
 8) Zhengyan Lun, Bin Ouyang, Daniil A. Kitchaev, Raphaële J. Clément, Joseph K. Papp, Mahalingam Balasubramanian, Yaosen Tian, Teng Lei, Tan Shi, Bryan D. McCloskey, Jinhyuk Lee* , Gerbrand Ceder*, "Improved Cycling Performance of Li‐Excess Cation‐Disordered Cathode Materials upon Fluorine Substitution." Advanced Energy Materials 9.2 (2019): 1802959. [https://doi.org/10.1002/aenm.201802959](https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.201802959)
 
