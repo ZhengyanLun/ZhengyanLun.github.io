@@ -11,10 +11,6 @@ categories: media
 
 Related reading:["A Story of Disordered Arrangements." Singh, Aditya Narayan. Matter 4.1 (2021): 23-25.](https://www.sciencedirect.com/science/article/pii/S2590238520306901?casa_token=wKvJTGkzefoAAAAA:WGbnQrhgJwfJnjOuooCaAIxbdaJL0sIfrx7dXjjLLJckKvKWZl8IIbiQhdnuqU3c2iM2yA)
 
-Video presentation of the paper.
-
-{% include embed.html url="https://www.youtube.com/embed/_ml4TMqhUlAw&t=1029s" %}
-
 16) Linze Li†, Zhengyan Lun†, Dongchang Chen, Yuan Yue, Wei Tong, Guoying Chen, Gerbrand Ceder* , and Chongmin Wang*. "Fluorination‐Enhanced Surface Stability of Cation‐Disordered Rocksalt Cathodes for Li‐Ion Batteries." Advanced Functional Materials (2021): 2101888. [https://doi.org/10.1002/adfm.202101888](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202101888)
 
 15) Tian, Yaosen, Guobo Zeng, Ann Rutt, Tan Shi, Haegyeom Kim, Jingyang Wang, Julius Koettgen, Yingzhi Sun, Bin Ouyang, Tina Chen, Zhengyan Lun, Ziqin Rong, Kristin Persson* , Gerbrand Ceder*. "Promises and Challenges of Next-Generation “Beyond Li-ion” Batteries for Electric Vehicles and Grid Decarbonization." Chemical reviews 121.3 (2020): 1623-1669. [https://pubs.acs.org/doi/10.1021/acs.chemrev.0c00767.](https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.0c00767)
