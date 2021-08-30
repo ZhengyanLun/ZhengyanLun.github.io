@@ -18,14 +18,9 @@ I am experienced in the design and synthesis of various class of energy storage 
 
 ## Development and application of advanced characterization techniques
 
-The electrochemical performance of energy storage materials are primarily related to the structure of the materials and the reaction kinetics during operation. One must rely on various advanced characterization techniques, both *in-situ* (i.e., tracking the structure / kinetic information during the electrochemical cycling in real time) and *ex-situ* (i.e., stopping the components at different state of charge and performing various characterizations). I am a fan of developing and applying various techniques to probe the structure-property relationships and reaction kinetics in energy storage materials, including, but not limited to the following:
+The electrochemical performance of energy storage materials are primarily related to the structure of the materials and the reaction kinetics during operation. One must rely on various advanced characterization techniques, both *in-situ* (i.e., tracking the structure / kinetic information during the electrochemical cycling in real time) and *ex-situ* (i.e., stopping the components at different states of charge and performing various characterizations). I am a fan of developing and applying various techniques to probe the structure-property relationships and reaction kinetics in energy storage materials, including, but not limited to the following:
 
 ### X-ray diffraction (XRD) and Pair-distribution function (PDF)
-
-XRD is a traditional, yet powerful tool to track the long-range crystal structure of the materials. *Operando* XRD provides valuable information of the phase behavior during the electrochemical cycling of energy storage materials in real time, and can be applied to understand the stability and reaction kinetics of the material upon cycling. 
-
-PDF is a bulk-sensitive characterization technique, which can probe both long-range crystal structure and the local short-range ordering as well. X-ray-based PDF and Neutron-based PDF are usually combined to acquire structural information of both heavy transition metals and light alkali metal (i.e., Li)
-
 
 ### Transmission electron microscopy (TEM)
 
