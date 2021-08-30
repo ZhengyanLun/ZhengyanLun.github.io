@@ -9,7 +9,7 @@ categories: media
 
 17) Zhengyan Lun†, Bin Ouyang†, Deok-Hwang Kwon, Yang Ha, Emily E. Foley, Tzu-Yang Huang, Zijian Cai, Hyunchul Kim, Mahalingam Balasubramanian, Yingzhi Sun, Jianping Huang, Yaosen Tian, Haegyeom Kim, Bryan D. McCloskey, Wanli Yang, Raphaële Clément, Huiwen Ji* , Gerbrand Ceder*, "Cation-disordered rocksalt-type high-entropy cathodes for Li-ion batteries." Nature materials 20.2 (2021): 214-221. [https://doi.org/10.1038/s41563-020-00816-0](https://www.nature.com/articles/s41563-020-00816-0)
 
-Related reading: Singh, Aditya Narayan. ["A Story of Disordered Arrangements." Matter 4.1 (2021): 23-25.](https://www.sciencedirect.com/science/article/pii/S2590238520306901?casa_token=wKvJTGkzefoAAAAA:WGbnQrhgJwfJnjOuooCaAIxbdaJL0sIfrx7dXjjLLJckKvKWZl8IIbiQhdnuqU3c2iM2yA)
+Related reading:["A Story of Disordered Arrangements." Singh, Aditya Narayan. Matter 4.1 (2021): 23-25.](https://www.sciencedirect.com/science/article/pii/S2590238520306901?casa_token=wKvJTGkzefoAAAAA:WGbnQrhgJwfJnjOuooCaAIxbdaJL0sIfrx7dXjjLLJckKvKWZl8IIbiQhdnuqU3c2iM2yA)
 
 Video presentation of the paper.
 
@@ -39,7 +39,7 @@ Video presentation of the paper.
 
 [2018 Energy and Environmental Science HOT Articles](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=ee&themeid=18c9c4b5-1d5d-4ffc-9640-88e7b7c4b1eb)
 
-Related reading: Malik, Rahul. ["Frontiers of Chemical Space." Joule 2.8 (2018): 1403-1404.](https://www.sciencedirect.com/science/article/pii/S2542435118303453)
+Related reading: ["Frontiers of Chemical Space." Malik, Rahul. Joule 2.8 (2018): 1403-1404.](https://www.sciencedirect.com/science/article/pii/S2542435118303453)
 
 5) Yang Yang, Zhiyu Lin, Shiqi Gao, Jianwei Su, Zhengyan Lun, Guoliang Xia, Jitang Chen, Ruirui Zhang, Qianwang Chen*. "Tuning electronic structures of nonprecious ternary alloys encapsulated in graphene layers for optimizing overall water splitting activity." Acs Catalysis 7.1 (2017): 469-479. [DOI: 10.1021/acscatal.6b02573.](https://pubs.acs.org/doi/abs/10.1021/acscatal.6b02573)
 
