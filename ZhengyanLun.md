@@ -20,7 +20,7 @@ Major: Materials Physics;
 Research advisor: Prof. Qianwang Chen.
 
 ### Aug 2016 --- Dec 2020, Ph.D.
-Department of Materials Science and Engineering, University of California at Berkeley; 
+Department of Materials Science and Engineering, University of California at Berkeley (UCB); 
 
 Supervisor: Prof. Gerbrand Ceder;
 
@@ -37,6 +37,14 @@ Supervisor: Prof. Clare P. Grey;
 Department of Physics, University of Cambridge;
 
 Supervisor: Prof. Akshay Rao.
+
+## Teaching experience
+
+Thermodynamics, statistical mechanics and phase transformation in solids (UCB, graduate level course MSE 201A, TA)
+
+Quantum physics (USTC, undergraduate level course, TA)
+
+Physical chemistry (USTC, undergraduate level course, TA)
 
 
 ## Honors
