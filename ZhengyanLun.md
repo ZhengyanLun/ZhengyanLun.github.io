@@ -55,7 +55,7 @@ Email: zylun@berkeley.edu; zl491@cam.ac.uk
 
 Google scholar profile: [Zhengyan Lun](https://scholar.google.com/citations?hl=en&user=9OqMRZYAAAAJ&pagesize=80&view_op=list_works)
 
-Twitter: @LunZhengyan
+Twitter: [@LunZhengyan](https://twitter.com/LunZhengyan)
 
 LinkedIn: [Zhengyan Lun](https://www.linkedin.com/chatin/wnc/in/zhengyan-lun-590b37123)
 
