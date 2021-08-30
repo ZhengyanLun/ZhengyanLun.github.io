@@ -14,7 +14,9 @@ categories: media
 7) Jinhyuk Lee* , Daniil A. Kitchaev, Deok-Hwang Kwon, Chang-Wook Lee, Joseph K. Papp, Yi-Sheng Liu, Zhengyan Lun, Raphaële J. Clément, Tan Shi, Bryan D. McCloskey, Jinghua Guo, Mahalingam Balasubramanian, Gerbrand Ceder*, "Reversible Mn 2+/Mn 4+ double redox in lithium-excess cathode materials." Nature 556.7700 (2018): 185-190.[DOI: https://doi.org/10.1038/s41586-018-0015-4](https://www.nature.com/articles/s41586-018-0015-4)
 
 6) Daniil A. Kitchaev* †, Zhengyan Lun†, William D. Richards, Huiwen Ji, Raphaële J. Clément, Mahalingam Balasubramanian, Deok-Hwang Kwon, Kehua Dai, Joseph K. Papp, Teng Lei, Bryan D. McCloskey, Wanli Yang, Jinhyuk Lee, Gerbrand Ceder*, "Design principles for high transition metal capacity in disordered rocksalt Li-ion cathodes." Energy & Environmental Science 11.8 (2018): 2159-2171. [DOI: 10.1039/C8EE00816G](https://pubs.rsc.org/en/content/articlehtml/2018/ee/c8ee00816g)
+
 [2018 Energy and Environmental Science HOT Articles](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=ee&themeid=18c9c4b5-1d5d-4ffc-9640-88e7b7c4b1eb)
+
 Related reading: Malik, Rahul. ["Frontiers of Chemical Space." Joule 2.8 (2018): 1403-1404.](https://www.sciencedirect.com/science/article/pii/S2542435118303453)
 
 5) Yang Yang, Zhiyu Lin, Shiqi Gao, Jianwei Su, Zhengyan Lun, Guoliang Xia, Jitang Chen, Ruirui Zhang, Qianwang Chen*. "Tuning electronic structures of nonprecious ternary alloys encapsulated in graphene layers for optimizing overall water splitting activity." Acs Catalysis 7.1 (2017): 469-479. [DOI: 10.1021/acscatal.6b02573.](https://pubs.acs.org/doi/abs/10.1021/acscatal.6b02573)
