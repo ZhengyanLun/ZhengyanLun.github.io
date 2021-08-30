@@ -11,7 +11,7 @@ categories: media
 
 The tremendous success and growth of energy storage technology in a broad range of applications have long-lasting and far-reaching influence on our human society. Li-ion technology is so far the most promising and optimized component within the energy storage technology frame, which can further be divided into several sub-catagories, i.e., cathodes, anodes and electrolytes. Not only should we further enhance the capacity, rate capability and cycle life of various components, but also seek for less resource-constrained candidates for energy storage.
 
-I am experienced in the design and synthesis of various class of energy storage materials, especially cation-disordered rocksalt (DRX) materials and Ni-rich NMC cathodes, the optimization of which can be achieved from the delicate manipulation of overall composition, long-range crystal structure and local short-range ordering as well. Design strategies are usually proposed based on basical physical and chemical principles and evaluated combining electrochemical tests, characterization techniques and computational methodes.
+I am experienced in the design and synthesis of various class of energy storage materials, especially cation-disordered rocksalt (DRX) materials and Ni-rich NMC cathodes, the optimization of which can be achieved from the delicate manipulation of overall composition, long-range crystal structure and local short-range ordering as well. Design strategies are usually proposed based on basical physical and chemical principles and evaluated combining electrochemical tests, characterization techniques and computational methods.
 
 
 
