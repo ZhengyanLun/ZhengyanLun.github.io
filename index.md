@@ -8,6 +8,6 @@ Welcome to my research website. My name is Zhengyan Lun and I'm currently a rese
 
 My research interests focus on the design, synthesis, characterization and optimization of next-generation energy-storage materials. From a fundamental perspective, I start from basic physics and chemistry principles for materials design, and apply a wide range of advanced characterization techniques (such as X-ray diffraction, transmission electron microscope, pair distribution function, X-ray absorption spectroscopy, solid-state nuclear magnetic resonance spectroscopy, interferometric scattering etc.) to elucidate the structure-property relationship of energy storage materials and their degradation mechanisms. From a practical persctive, I am also interested in applying engineering methods for the functional optimization of novel energy storage materials for potential commercialization.  
 
-I will be starting my own research group in the Department of Chemistry at University of Chinese Academy of Sciences and have a couple of postdoc openings. Feel free to email me if you are interested.
+I will be starting my own research group in the Department of Chemistry at University of Chinese Academy of Sciences from September 2022 and have a couple of postdoc openings. Feel free to email me if you are interested.
 
 ![Frontpage](/Frontpage.jpg)
