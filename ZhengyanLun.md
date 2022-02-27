@@ -40,6 +40,12 @@ Department of Physics, University of Cambridge;
 
 Supervisor: Prof. Akshay Rao.
 
+### Starting from Sept 2022, Associate Professor
+Department of Chemistry; 
+
+University of Chinese Academy of Sciences.
+
+
 ## Teaching experience
 
 Thermodynamics, statistical mechanics and phase transformation in solids (UCB, graduate level course MSE 201A, TA)
@@ -61,7 +67,7 @@ National Scholarship of China (国家奖学金) (Sept. 2013 and Sept. 2014)
 
 ## Contact information
 
-Email: zylun@berkeley.edu; zl491@cam.ac.uk
+Email: zylun@ucas.ac.cn; zylun@berkeley.edu; zl491@cam.ac.uk
 
 Google scholar profile: [Zhengyan Lun](https://scholar.google.com/citations?hl=en&user=9OqMRZYAAAAJ&pagesize=80&view_op=list_works)
 
