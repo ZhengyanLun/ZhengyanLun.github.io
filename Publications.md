@@ -7,7 +7,7 @@ categories: media
 
 (* corresponding authorship;      † co-authorship)
 
-18）Zijian Cai†, Yaqian Zhang†, Zhengyan Lun†* , Bin Ouyang, Leighanne C. Gallington, Yingzhi Sun, Han-Ming Hau, Yu Chen, Mary C. Scott* , Gerbrand Ceder* , "Thermodynamically driven synthetic optimization for cation-disordered rocksalt cathodes." Advanced Energy Materials (2022) accepted. [https://doi.org/10.1002/aenm.202103923](https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202103923)
+18）Zijian Cai†, Yaqian Zhang†, Zhengyan Lun†* , Bin Ouyang, Leighanne C. Gallington, Yingzhi Sun, Han-Ming Hau, Yu Chen, Mary C. Scott* , Gerbrand Ceder* , "Thermodynamically driven synthetic optimization for cation-disordered rocksalt cathodes." Advanced Energy Materials (2022) accepted.  [https://doi.org/10.1002/aenm.202103923](https://onlinelibrary.wiley.com/doi/full/10.1002/aenm.202103923)
 
 17) Zhengyan Lun†, Bin Ouyang†, Deok-Hwang Kwon, Yang Ha, Emily E. Foley, Tzu-Yang Huang, Zijian Cai, Hyunchul Kim, Mahalingam Balasubramanian, Yingzhi Sun, Jianping Huang, Yaosen Tian, Haegyeom Kim, Bryan D. McCloskey, Wanli Yang, Raphaële Clément, Huiwen Ji* , Gerbrand Ceder*, "Cation-disordered rocksalt-type high-entropy cathodes for Li-ion batteries." Nature materials 20.2 (2021): 214-221. [https://doi.org/10.1038/s41563-020-00816-0](https://www.nature.com/articles/s41563-020-00816-0)
 
