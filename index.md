@@ -4,10 +4,9 @@ title: "Home"
 ---
 
 
-Welcome to my research website. My name is Zhengyan Lun and I'm currently a research associate scholar in the Department of Chemistry and Department of Physics at University of Cambridge. I did my Ph.D. in the Department of Materials Scheince and Engineering at University of California, Berkeley and Materials Sciences Division at Lawrence Berkeley National Laboratory. My undergraduate was done at the Department of Chemistry and Materials Science in University of Science and Technology of China, majoring in Materials Physics.
+Welcome to my research website. My name is Zhengyan Lun and I'm currently an associate professor in the School of Chemical Sciences at University of Chinese Academy of Sciences. My undergraduate was done at the Department of Chemistry and Materials Science in University of Science and Technology of China, majoring in Materials Physics.  I did my Ph.D. in the Department of Materials Scheince and Engineering at University of California, Berkeley and Materials Sciences Division at Lawrence Berkeley National Laboratory. I served as a research associate scholar in the Department of Chemistry and Department of Physics at University of Cambridge after my Ph.D.
 
 My research interests focus on the design, synthesis, characterization and optimization of next-generation energy-storage materials. From a fundamental perspective, I start from basic physics and chemistry principles for materials design, and apply a wide range of advanced characterization techniques (such as X-ray diffraction, transmission electron microscope, pair distribution function, X-ray absorption spectroscopy, solid-state nuclear magnetic resonance spectroscopy, interferometric scattering etc.) to elucidate the structure-property relationship of energy storage materials and their degradation mechanisms. From a practical persctive, I am also interested in applying engineering methods for the functional optimization of novel energy storage materials for potential commercialization.  
 
-I will be starting my own research group in the Department of Chemistry at University of Chinese Academy of Sciences from September 2022 and have a couple of postdoc openings. Feel free to email me if you are interested.
 
 ![Frontpage](/Frontpage.jpg)
