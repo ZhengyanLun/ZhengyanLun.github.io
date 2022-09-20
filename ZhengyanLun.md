@@ -31,7 +31,7 @@ Thesis: Short-range order and macroscopic Lithium transport in cation-disordered
 
 ## Work experience
 
-### Apr 2021 --- present,  Research Associate 
+### Apr 2021 --- June 2022,  Research Associate 
 Department of Chemistry, University of Cambridge;
 
 Supervisor: Prof. Clare P. Grey; 
@@ -40,8 +40,8 @@ Department of Physics, University of Cambridge;
 
 Supervisor: Prof. Akshay Rao.
 
-### Starting from Sept 2022, Associate Professor
-Department of Chemistry; 
+### Aug 2022 --- present, Associate Professor
+School of Chemical Sciences; 
 
 University of Chinese Academy of Sciences.
 
